@@ -1,0 +1,17 @@
+PASSWORD SECURITY AUDIT REPORT
+========================================
+
+Audit Date       : 2026-02-03 13:52:05.743436
+Hash Algorithm   : MD5
+Password Cracked : YES
+Entropy Score    : 14.1
+Risk Level       : CRITICAL
+
+Findings:
+- Password was cracked using brute-force simulation.
+
+Recommendations:
+- Enforce minimum length of 12 characters
+- Require uppercase, lowercase, numbers, and symbols
+- Prevent reuse of common or breached passwords
+- Implement account lockout and rate limiting
