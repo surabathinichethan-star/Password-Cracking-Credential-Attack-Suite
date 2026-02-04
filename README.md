@@ -1,0 +1,166 @@
+\# Password Cracking \& Credential Attack Suite
+
+
+
+\## 📌 Project Overview
+
+The Password Cracking \& Credential Attack Suite is a Python-based security auditing framework designed to simulate real-world password attacks in a \*\*controlled and ethical environment\*\*.  
+
+The project helps understand how weak passwords are exploited and how organizations can strengthen authentication security.
+
+
+
+This project follows both \*\*Red Team (attack simulation)\*\* and \*\*Blue Team (defensive analysis)\*\* perspectives.
+
+
+
+---
+
+
+
+\## 🎯 Project Objectives
+
+\- Generate custom password dictionaries
+
+\- Simulate password hashing mechanisms
+
+\- Perform controlled brute-force attack simulations
+
+\- Analyze password strength using entropy and complexity
+
+\- Generate professional security audit reports
+
+\- Recommend secure password policies
+
+
+
+---
+
+
+
+\## 🧰 Tools \& Technologies
+
+\- \*\*Programming Language:\*\* Python  
+
+\- \*\*Libraries Used:\*\* hashlib, itertools, math, re, datetime  
+
+\- \*\*Platform:\*\* Windows  
+
+\- \*\*Version Control:\*\* Git \& GitHub  
+
+
+
+---
+
+
+
+\## 🗂️ Project Structure
+
+Password-Cracking-Credential-Attack-Suite/
+
+├── dictionary\_generator/
+
+│ └── generator.py
+
+├── hashing/
+
+│ └── hash\_generator.py
+
+├── brute\_force/
+
+│ └── brute\_force.py
+
+├── strength\_analyzer/
+
+│ └── analyzer.py
+
+├── reports/
+
+│ ├── report\_generator.py
+
+│ └── audit\_report.txt
+
+├── data/
+
+│ └── wordlist.txt
+
+└── README.md
+
+
+
+---
+
+
+
+\## ⚙️ Modules Description
+
+
+
+\### 1️⃣ Dictionary Generator
+
+\- Generates custom wordlists based on user input
+
+\- Applies mutation rules (uppercase, numbers, symbols, leetspeak)
+
+\- Simulates real-world password profiling
+
+
+
+\### 2️⃣ Hash Generator
+
+\- Converts plaintext passwords into cryptographic hashes
+
+\- Supports MD5, SHA1, SHA256, SHA512
+
+\- Demonstrates how passwords are stored securely
+
+
+
+\### 3️⃣ Brute-Force Attack Simulator
+
+\- Performs controlled brute-force simulations
+
+\- Uses hashes instead of plaintext passwords
+
+\- Calculates number of attempts and time-to-crack
+
+
+
+\### 4️⃣ Password Strength Analyzer
+
+\- Evaluates password complexity and entropy
+
+\- Assigns risk levels (CRITICAL, WEAK, MEDIUM, STRONG)
+
+\- Identifies weaknesses and missing security controls
+
+
+
+\### 5️⃣ Audit Report Generator
+
+\- Generates a professional security audit report
+
+\- Includes findings, risk assessment, and remediation steps
+
+\- Mimics real SOC / security audit documentation
+
+
+
+---
+
+
+
+\## ▶️ How to Run the Project
+
+
+
+\### Step 1: Generate Dictionary
+
+```powershell
+
+cd dictionary\_generator
+
+python generator.py
+
+
+
