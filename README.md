@@ -4,7 +4,9 @@
 
 \## 📌 Project Overview
 
-The Password Cracking \& Credential Attack Suite is a Python-based security auditing framework designed to simulate real-world password attacks in a \*\*controlled and ethical environment\*\*.  
+The Password Cracking \& Credential Attack Suite is a Python-based security auditing framework designed to simulate real-world password attacks in a \*\*controlled and ethical environment\*\*.
+
+
 
 The project helps understand how weak passwords are exploited and how organizations can strengthen authentication security.
 
@@ -40,13 +42,13 @@ This project follows both \*\*Red Team (attack simulation)\*\* and \*\*Blue Team
 
 \## 🧰 Tools \& Technologies
 
-\- \*\*Programming Language:\*\* Python  
+\- \*\*Programming Language:\*\* Python
 
-\- \*\*Libraries Used:\*\* hashlib, itertools, math, re, datetime  
+\- \*\*Libraries Used:\*\* hashlib, itertools, math, re, datetime
 
-\- \*\*Platform:\*\* Windows  
+\- \*\*Platform:\*\* Windows
 
-\- \*\*Version Control:\*\* Git \& GitHub  
+\- \*\*Version Control:\*\* Git \& GitHub
 
 
 
@@ -162,5 +164,99 @@ cd dictionary\_generator
 
 python generator.py
 
+Step 2: Generate Hashes
 
+cd hashing
+
+python hash\_generator.py
+
+
+
+Step 3: Brute-Force Simulation
+
+cd brute\_force
+
+python brute\_force.py
+
+
+
+Step 4: Analyze Password Strength
+
+cd strength\_analyzer
+
+python analyzer.py
+
+
+
+Step 5: Generate Audit Report
+
+cd reports
+
+python report\_generator.py
+
+
+
+📄 Sample Outputs
+
+
+
+Generated wordlist (wordlist.txt)
+
+
+
+Password cracking results with time-to-crack
+
+
+
+Password entropy and risk analysis
+
+
+
+Security audit report (audit\_report.txt)
+
+
+
+🔐 Ethical Disclaimer
+
+
+
+This project is strictly for educational and ethical security testing purposes only.
+
+All simulations are performed on self-created test data.
+
+Unauthorized use of these techniques on real systems is illegal.
+
+
+
+📈 Learning Outcomes
+
+
+
+Understanding of password storage and hashing
+
+
+
+Practical exposure to credential attack techniques
+
+
+
+Ability to audit password security
+
+
+
+Experience with Red Team and Blue Team methodologies
+
+
+
+Hands-on Python and GitHub workflow
+
+
+
+👤 Author
+
+
+
+Chethan Surabathini
+
+Cybersecurity Intern | SOC Analyst Aspirant
 
