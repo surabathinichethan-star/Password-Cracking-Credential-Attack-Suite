@@ -110,6 +110,20 @@ Password entropy and risk analysis
 
 Security audit report (audit_report.txt)
 
+## 📸 Screenshots
+
+![Project Structure](screenshots/project_structure.png)
+
+![Dictionary Generator](screenshots/dictionary_generator.png)
+
+![Hash Generator](screenshots/hash_generator.png)
+
+![Brute Force](screenshots/brute_force.png)
+
+![Strength Analyzer](screenshots/strength_analyzer.png)
+
+![Audit Report](screenshots/audit_report.png)
+
 🔐 Ethical Disclaimer
 
 This project is strictly for educational and ethical security testing purposes only.
