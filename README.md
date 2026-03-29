@@ -30,19 +30,33 @@ This project follows both **Red Team (attack simulation)** and **Blue Team (defe
 ## 🗂️ Project Structure
 
 Password-Cracking-Credential-Attack-Suite/
+
 ├── dictionary_generator/
+
 │ └── generator.py
+
 ├── hashing/
+
 │ └── hash_generator.py
+
 ├── brute_force/
+
 │ └── brute_force.py
+
 ├── strength_analyzer/
+
 │ └── analyzer.py
+
 ├── reports/
+
 │ ├── report_generator.py
+
 │ └── audit_report.txt
+
 ├── data/
+
 │ └── wordlist.txt
+
 └── README.md
 
 
