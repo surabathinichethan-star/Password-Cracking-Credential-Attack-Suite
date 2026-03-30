@@ -89,7 +89,7 @@ Password-Cracking-Credential-Attack-Suite/
 - Includes findings, risk assessment, and remediation steps
 - Mimics real SOC / security audit documentation
 
----
+- - -
 
 ## ▶️ How to Run the Project
 
@@ -97,22 +97,31 @@ Password-Cracking-Credential-Attack-Suite/
 ```powershell
 cd dictionary_generator
 python generator.py
+```
 
-Step 2: Generate Hashes
+### Step 2: Generate Hashes
+```powershell
 cd hashing
 python hash_generator.py
+```
 
-Step 3: Brute-Force Simulation
+### Step 3: Brute-Force Simulation
+```powershell
 cd brute_force
 python brute_force.py
+```
 
-Step 4: Analyze Password Strength
+### Step 4: Analyze Password Strength
+```powershell
 cd strength_analyzer
 python analyzer.py
+```
 
-Step 5: Generate Audit Report
+### Step 5: Generate Audit Report
+```powershell
 cd reports
 python report_generator.py
+```
 
 📄 Sample Outputs
 
@@ -123,6 +132,8 @@ Password cracking results with time-to-crack
 Password entropy and risk analysis
 
 Security audit report (audit_report.txt)
+
+---
 
 ## 📸 Screenshots
 
@@ -143,6 +154,9 @@ Security audit report (audit_report.txt)
 
 ### Project Structure
 ![Project Structure](screenshots/project_structure.png)
+
+---
+
 🔐 Ethical Disclaimer
 
 This project is strictly for educational and ethical security testing purposes only.
