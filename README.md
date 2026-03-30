@@ -33,29 +33,29 @@ Password-Cracking-Credential-Attack-Suite/
 
 ├── dictionary_generator/
 
-│ └── generator.py
+└── generator.py
 
 ├── hashing/
 
-│ └── hash_generator.py
+└── hash_generator.py
 
 ├── brute_force/
 
-│ └── brute_force.py
+└── brute_force.py
 
 ├── strength_analyzer/
 
-│ └── analyzer.py
+└── analyzer.py
 
 ├── reports/
 
-│ ├── report_generator.py
+├── report_generator.py
 
-│ └── audit_report.txt
+└── audit_report.txt
 
 ├── data/
 
-│ └── wordlist.txt
+└── wordlist.txt
 
 └── README.md
 
@@ -126,17 +126,23 @@ Security audit report (audit_report.txt)
 
 ## 📸 Screenshots
 
-![Project Structure](screenshots/project_structure.png)
+### Dictionary Generator
+![Dictionary Generator](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/dictionary_generator.png)
 
-![Dictionary Generator](screenshots/dictionary_generator.png)
+### Hash Generator
+![Hash Generator](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/hash_generator.png)
 
-![Hash Generator](screenshots/hash_generator.png)
+### Brute Force
+![Brute Force](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/brute_force.png)
 
-![Brute Force](screenshots/brute_force.png)
+### Strength Analyzer
+![Strength Analyzer](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/strength_analyzer.png)
 
-![Strength Analyzer](screenshots/strength_analyzer.png)
+### Audit Report
+![Audit Report](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/audit_report.png)
 
-![Audit Report](screenshots/audit_report.png)
+### Project Structure
+![Project Structure](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/project_structure.png)
 
 🔐 Ethical Disclaimer
 
