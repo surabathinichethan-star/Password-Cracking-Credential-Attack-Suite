@@ -126,22 +126,16 @@ Security audit report (audit_report.txt)
 
 ## 📸 Screenshots
 
-### Dictionary Generator
 ![Dictionary Generator](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/dictionary_generator.png)
 
-### Hash Generator
 ![Hash Generator](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/hash_generator.png)
 
-### Brute Force
 ![Brute Force](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/brute_force.png)
 
-### Strength Analyzer
 ![Strength Analyzer](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/strength_analyzer.png)
 
-### Audit Report
 ![Audit Report](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/audit_report.png)
 
-### Project Structure
 ![Project Structure](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/project_structure.png)
 
 🔐 Ethical Disclaimer
