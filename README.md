@@ -126,18 +126,23 @@ Security audit report (audit_report.txt)
 
 ## 📸 Screenshots
 
-![Dictionary Generator](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/dictionary_generator.png)
+### Dictionary Generator
+![Dictionary Generator](screenshots/dictionary_generator.png)
 
-![Hash Generator](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/hash_generator.png)
+### Hash Generator
+![Hash Generator](screenshots/hash_generator.png)
 
-![Brute Force](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/brute_force.png)
+### Brute Force
+![Brute Force](screenshots/brute_force.png)
 
-![Strength Analyzer](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/strength_analyzer.png)
+### Strength Analyzer
+![Strength Analyzer](screenshots/strength_analyzer.png)
 
-![Audit Report](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/audit_report.png)
+### Audit Report
+![Audit Report](screenshots/audit_report.png)
 
-![Project Structure](https://raw.githubusercontent.com/surabathinichethan-star/Password-Cracking-Credential-Attack-Suite/main/screenshots/project_structure.png)
-
+### Project Structure
+![Project Structure](screenshots/project_structure.png)
 🔐 Ethical Disclaimer
 
 This project is strictly for educational and ethical security testing purposes only.
